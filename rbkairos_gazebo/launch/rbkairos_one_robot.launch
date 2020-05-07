@@ -24,7 +24,7 @@
     <arg name="odom_model_type" default="omni"/>
     <arg name="movebase_local_planner" default="teb"/>
     <arg name="launch_pad" default="false"/>
-    <arg name="launch_gripper" default="false"/>
+    <arg name="launch_gripper" default="true"/>
     <arg name="gripper_model" default="egh"/>
 
     <arg name="load_arm_kinematics_file" default="true"/>
